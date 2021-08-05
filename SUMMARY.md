@@ -16,7 +16,7 @@
 * [Custom Discovery Handlers](development/handler-development.md)
 * [Custom Brokers](development/broker-development.md)
 * [Mock Discovery Handler for Testing](development/debugging.md)
-* [Development Walkthrough](development/development-walkthrough.md)
+* [Walkthrough of Implementing a Custom Discovery Handler and Broker](development/development-walkthrough.md)
 
 ## Architecture
 
@@ -27,15 +27,14 @@
 
 ## Discovery Handlers
 
-* [IP Cameras](discovery-handlers/onvif.md)
+* [ONVIF for IP Cameras](discovery-handlers/onvif.md)
 * [OPC UA](discovery-handlers/opc-ua.md)
 * [udev](discovery-handlers/udev.md)
 
 ## Demos
 
-* [Camera ⁠– Mocked](demos/camera-mocked.md)
-* [Thermometer](demos/thermometer-opc-ua.md)
-* [OPC UA](demos/untitled.md)
+* [Discovering and Using USB Cameras](demos/usb-camera-demo.md)
+* [Discovering and Using OPC UA Thermometers](demos/opc-thermometer-demo.md)
 
 ## Community
 
